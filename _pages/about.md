@@ -2,13 +2,13 @@
 layout: about
 title: about
 permalink: /
-description: <a href="https://titech-caras.github.io/index-en.html">Affiliations</a>. <a href="mailto:davidkimoh@naver.com>Contact</a>. <a href="/assets/pdf/CV_JeongWon(David)Oh.pdf">CV</a>.
+description: <a href="https://titech-caras.github.io/index-en.html">Affiliations</a>. <a href="mailto:davidkimoh@naver.com">Contact</a>. <a href="/assets/pdf/CV_JeongWon(David)Oh.pdf">CV</a>.
 
 profile:
   align: right
   image: JeongWonOh.png
   address: >
-    <p>Currently in Gyeonggi-do, Korea</p>
+    <p>Currently in Gyeonggi-do, Republic of Korea</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
