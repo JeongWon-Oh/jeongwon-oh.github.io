@@ -95,7 +95,7 @@ disqus_shortname: al-folio # put your disqus shortname
 # -----------------------------------------------------------------------------
 
 collections:
-  experience:
+  experiences:
     defaults:
       layout: post
     output: true
