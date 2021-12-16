@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="https://titech-caras.github.io/index-en.html">Affiliations</a>. <a href="mailto:davidkimoh@naver.com>Contact.</a> <a href="/assets/pdf/CV_JeongWon(David)Oh.pdf">CV.</a>
+description: <a href="https://titech-caras.github.io/index-en.html">Affiliations</a>. <a href="mailto:davidkimoh@naver.com>Contact</a>. <a href="/assets/pdf/CV_JeongWon(David)Oh.pdf">CV</a>.
 
 profile:
   align: right
