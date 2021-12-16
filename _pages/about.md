@@ -7,7 +7,8 @@ description: <a href="https://titech-caras.github.io/index-en.html">Affiliations
 profile:
   align: right
   image: JeongWonOh.png
-  address: 
+  address: >
+    <p>Currently in Gyeonggi-do, Korea</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
