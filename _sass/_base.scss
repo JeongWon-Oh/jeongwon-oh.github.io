@@ -195,6 +195,16 @@ blockquote {
   }
 }
 
+// Experiences
+
+.experiences table td {
+  font-size: 1rem;
+  color: var(--global-text-color);
+}
+
+.experiences table th {
+  color: var(--global-text-color);
+}
 
 // News
 
