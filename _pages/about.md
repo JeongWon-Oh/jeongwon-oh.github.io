@@ -20,7 +20,7 @@ Hello, I'm Jeong Won Oh. You can also call me David Oh.
 
 >
 I'm planned to enter <a href="https://www.titech.ac.jp/english">Tokyo Institute of Technology</a> in April 2022.
-I'll study for a master's degree in Information and Communications Engineering as a member of <a href="https://titech-caras.github.io/index-en.html">CARAS</a>, under the supervision of Prof. Sasaki.
+I'll study for a master's degree in Information and Communications Engineering as a member of <a href="https://titech-caras.github.io/index-en.html">CARAS Lab</a>, under the supervision of Prof. Hiroshi Sasaki.
 
 >
 I'll receive a B.S. degree from <a href="https://yonsei.ac.kr">Yonsei University</a> in February 2022. I majored in Electrical and Electronic Engineering at the College of Engineering.
