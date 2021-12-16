@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Jeong Won
 middle_name: 
 last_name: Oh
-email: davidkimoh@naver.com
+email: 
 description: >
   Jeong Won Oh's Website
 footer_text: >
@@ -66,11 +66,10 @@ wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
-rss_icon: true
+rss_icon: false
 
 contact_note: >
-  hahaha
-  You can even add a little note about which of these is the best way to reach you.
+  Please contact me freely!
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID

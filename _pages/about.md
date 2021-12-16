@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <a href="https://titech-caras.github.io/index-en.html">Affiliations</a>. <a href="/assets/pdf/CV_JeongWon(David)Oh.pdf">CV.</a>
 
 profile:
   align: right
@@ -18,6 +18,11 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 >
-Hello, I'm Jeong Won Oh. You may also call me David Kim Oh. 
-I'm planned to enter Tokyo Institute of Technology in Apr. 2022.
-I'll study for master's degree in Information and Communications Engineering as a member of Computer ARchitecture And Security Lab (CARAS), under the supervision of Prof. Sasaki.
+Hello, I'm Jeong Won Oh. You may also call me David Kim Oh.
+
+>
+I'm planned to enter <a href="https://www.titech.ac.jp/english">Tokyo Institute of Technology</a> in Apr. 2022.
+I'll study for a master's degree in Information and Communications Engineering as a member of <a href="https://titech-caras.github.io/index-en.html">CARAS</a>, under the supervision of Prof. Sasaki.
+
+>
+I'll receive a B.S. degree from Yonsei University in Feb. 2022. I majored in Electrical and Electronic Engineering at the College of Engineering.
