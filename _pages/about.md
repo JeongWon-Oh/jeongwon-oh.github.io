@@ -10,6 +10,7 @@ profile:
   address: >
     <p>Currently in Gyeonggi-do, Republic of Korea</p>
 
+education: true
 experiences: true
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"

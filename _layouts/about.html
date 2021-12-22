@@ -33,6 +33,10 @@ layout: default
       {{ content }}
     </div>
 
+    {% if page.education %}
+      {% include education.html %}
+    {% endif %}
+
     {% if page.experiences %}
       {% include experiences.html %}
     {% endif %}

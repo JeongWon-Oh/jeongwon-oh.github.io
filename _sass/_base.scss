@@ -195,6 +195,17 @@ blockquote {
   }
 }
 
+// Education
+
+.education table td {
+  font-size: 1rem;
+  color: var(--global-text-color);
+}
+
+.education table th {
+  color: var(--global-text-color);
+}
+
 // Experiences
 
 .experiences table td {
