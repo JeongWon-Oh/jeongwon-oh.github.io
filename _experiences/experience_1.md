@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2021-12-17 04:00:00-0400
+duration: "Sep, 2019 - Dec, 2019"
 inline: true
 ---
 
-Experience Test!!
+Teaching Assistant, 
+<br>ENG1108 Engineering Information Processing

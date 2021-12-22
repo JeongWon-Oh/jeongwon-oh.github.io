@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2021-12-17 04:00:00-0400
+duration: "Mar, 2017 - Feb, 2022 <br>(expected to graduate)"
 inline: true
 ---
 
-Education Test!!
+*BS in Electrical and Electonic Engineering*,
+<br>Yonsei University
