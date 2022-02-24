@@ -1,6 +1,6 @@
 ---
 layout: post
-duration: "Mar, 2017 - Feb, 2022 <br>(expected to graduate)"
+duration: "Mar, 2017 - Feb, 2022"
 inline: true
 ---
 
