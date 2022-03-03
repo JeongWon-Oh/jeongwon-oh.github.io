@@ -1,8 +1,7 @@
 ---
 layout: post
-duration: "Mar, 2017 - Feb, 2022"
+duration: "Mar, 2014 - Feb, 2017"
 inline: true
 ---
 
-*BS in Electrical and Electonic Engineering*,
-<br>Yonsei University
+Pangyo High School

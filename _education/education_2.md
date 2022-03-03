@@ -1,8 +1,8 @@
 ---
 layout: post
-duration: "Apr, 2022 ~ <br>(expected to enter)"
+duration: "Mar, 2017 - Feb, 2022"
 inline: true
 ---
 
-*MS in Information and Communications Engineering*,
-<br>Tokyo Institute of Technology
+*B.S. in Electrical and Electonic Engineering*,
+<br>Yonsei University
