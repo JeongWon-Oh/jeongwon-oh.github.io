@@ -1,6 +1,6 @@
 ---
 layout: post
-duration: "Apr, 2022 ~ <br>(expected to enter)"
+duration: "Apr, 2022 ~ "
 inline: true
 ---
 
