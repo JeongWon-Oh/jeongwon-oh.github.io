@@ -78,7 +78,7 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name:   # your blog must have a name for it to show up in the nav bar
+blog_name: blog # your blog must have a name for it to show up in the nav bar
 blog_description: Not using it yet. Following posts are all samples.
 permalink: /blog/:year/:title/
 
@@ -236,7 +236,7 @@ imagemagick:
      - ".png"
      - ".tiff"
    output_formats:
-     webp: "-quality 75%"
+     webp: "- resize 800x"
 
 # -----------------------------------------------------------------------------
 # Jekyll Diagrams
