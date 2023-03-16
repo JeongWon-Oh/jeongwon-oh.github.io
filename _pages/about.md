@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 >
-Hello, I'm Jeong Won Oh. You can also call me David Oh.
+Hello, I'm Jeong Won Oh. You can also call me David.
 
 >
 I'm a master student of <a href="https://www.titech.ac.jp/english">Tokyo Institute of Technology</a>,
